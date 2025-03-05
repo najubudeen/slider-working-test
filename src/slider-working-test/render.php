@@ -9,7 +9,7 @@ $imageTwo = $attributes['imageTwo'];
                 <img src="<?php echo $imageOne; ?>" alt="Image 1">
                 <div class="caption">
                     <div class="title">
-                        First Image My title
+                        First Image My title here this thing cahnged
                     </div>
                     <div class="line">
                         <h5>First Image My Line</h5>
